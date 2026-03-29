@@ -339,7 +339,6 @@ public class MI2UI extends Mindow2{
 
         settings.title("input");
 
-        settings.checkPref("inputReplace", true).tag(true, false, false);
         settings.checkPref("instantBuild", false);
         settings.checkPref("forceTapTile", false);
         settings.checkPref("edgePanning", false);
